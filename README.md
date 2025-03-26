@@ -57,4 +57,4 @@ git clone https://github.com/your-username/book-bazaar.git
 2. **IDE Specific Instructions**:
    - For **IntelliJ IDEA**, you can run the command in the terminal.
    - For **Eclipse** or **STS**, you can right-click on the project and run it as a Spring Boot application.
-
+```
